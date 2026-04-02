@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level3.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "level3.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 990.6666666666665,
+                "y": 457.99999999999994
+            }
+        },
+        "level3.json#spritesheet": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Amina/OneDrive/Documenten/GitHub/sd24-p04-kdl-gp-game-runforyourlife-aee/tiled",
+    "last.imagePath": "C:/Users/Amina/OneDrive/Documenten/GitHub/sd24-p04-kdl-gp-game-runforyourlife-aee/tiled",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "level3.json"
+    ],
+    "project": "level3.tiled-project",
+    "recentFiles": [
+        "level3.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
